@@ -1,3 +1,3 @@
 Q1.
 
-In the database table, data types describe the kind of __DATA_ that it can contain.
+In the database table, data types describe the kind of __DATA__ that it can contain.
